@@ -12,9 +12,4 @@ Découverte de la notion de caractère, codage ASCII
 Parcours d'une chaîne de caractères  
 Codage et décodage César d'une chaîne de caractères  
 
-::: note Activités
-sdfsqdf
-sd
-:::
-
 
